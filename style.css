@@ -1,0 +1,18 @@
+.navbar .navbar-brand, .content .nama h4 {
+    color: #ffde00;
+}
+
+.content .row .images img{
+    width: 190px;
+    left: 50%;
+    top:30px;
+    transform: translateX(-50%);
+
+}
+.about .link a i {
+    color: #000000;
+}
+
+.about .link a:hover i {
+    color: #ffde00;   
+}
